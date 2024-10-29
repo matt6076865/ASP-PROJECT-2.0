@@ -1,0 +1,7 @@
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.AssemblyReference.cache
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+c:\Users\Owner\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
