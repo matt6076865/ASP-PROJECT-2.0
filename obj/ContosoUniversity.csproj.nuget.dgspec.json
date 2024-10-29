@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu-final\\ContosoUniversity.csproj": {}
+    "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP PROJECT 3.0\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu-final\\ContosoUniversity.csproj": {
+    "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP PROJECT 3.0\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu-final\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP PROJECT 3.0\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\Owner\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu-final\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP PROJECT 3.0\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\data\\ef-mvc\\intro\\samples\\cu-final\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\ASP PROJECT 3.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
